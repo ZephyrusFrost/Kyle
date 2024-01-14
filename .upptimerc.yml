@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: zaironbot
+    url: https://b527406f-bb5b-4c76-b72b-0b0901f961b4-00-faregoad83jj.pike.replit.dev/
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
